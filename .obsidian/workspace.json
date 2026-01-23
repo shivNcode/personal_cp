@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e5c77e21c1862823",
+        "id": "e69300cabf0b26a7",
         "type": "tabs",
         "children": [
           {
-            "id": "2a7d42c0b6fb9eb3",
+            "id": "862e400294482c2d",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -150,12 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Questions/1200.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of 1200"
             }
           }
         ]
@@ -173,9 +174,10 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2a7d42c0b6fb9eb3",
+  "active": "4d8ac70f40a34f44",
   "lastOpenFiles": []
 }
